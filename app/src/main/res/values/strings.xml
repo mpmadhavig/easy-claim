@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Easy Claim</string>
+    <string name="welcome">WELCOME</string>
+    <string name="refresh">refresh</string>
+    <string name="new_claim">New Claim</string>
+    <string name="submit_evidence">submit evidence</string>
+</resources>
